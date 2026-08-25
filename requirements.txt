@@ -1,0 +1,12 @@
+# 数据分析项目依赖（基于 uv + Python 3.12）
+pandas
+numpy
+matplotlib
+pyecharts
+jieba
+scikit-learn
+sqlalchemy
+openpyxl
+kafka-python
+pymysql
+jupyter
